@@ -103,6 +103,7 @@ h2:hover {
   text-align: center;
   color: white;
   margin-bottom: 20px;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .ma {
@@ -119,6 +120,7 @@ h2:hover {
   color: white;
   margin-bottom: 20px;
   text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .padi {
@@ -128,3 +130,37 @@ h2:hover {
 /* MAIN FINITO */
 
 /* INIZIO FOOTER */
+
+.foo {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(10, 58, 125);
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+h5 {
+  color: white;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.di {
+  display: flex;
+  justify-content: center;
+}
+
+.spost {
+  display: flex;
+  color: white;
+  gap: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.gap {
+  gap: 10px;
+}
+
+.top {
+  margin-top: 20px;
+}
