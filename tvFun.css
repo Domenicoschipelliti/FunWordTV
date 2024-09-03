@@ -208,6 +208,10 @@ h5 {
   margin-top: 20px;
 }
 
+.line {
+  text-decoration: none;
+}
+
 /* RESPONSIVNES */
 
 .direction {
