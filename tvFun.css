@@ -133,10 +133,6 @@ h2:hover {
   justify-content: space-around;
 }
 
-/* .padi {
-  padding-left: 20px;
-} */
-
 /* MAIN FINITO */
 
 /* INIZIO FOOTER */
@@ -210,6 +206,36 @@ h5 {
 
 .line {
   text-decoration: none;
+}
+
+/* RADIO LIVE */
+
+.back {
+  background-color: rgb(10, 58, 125);
+  font-size: 25px;
+  font-family: "Roboto Condensed", sans-serif;
+  display: flex;
+  justify-content: start;
+  text-align: center;
+  color: white;
+  flex-direction: column;
+}
+
+.rad {
+  display: flex;
+  justify-content: center;
+  transform: rotate(-25deg);
+}
+
+.disposizione {
+  display: flex;
+  margin: 0px;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.row {
+  flex-direction: row-reverse;
 }
 
 /* RESPONSIVNES */
